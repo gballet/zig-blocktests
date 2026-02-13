@@ -1,0 +1,11 @@
+.{
+    .name = .blocktests,
+    .version = "0.0.1",
+    .fingerprint = 0x892bde3ef6d7282d,
+    .dependencies = .{
+        .phant = .{
+            .path = "../phant",
+        },
+    },
+    .paths = .{""},
+}
